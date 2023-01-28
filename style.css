@@ -200,9 +200,7 @@ input,select{vertical-align:middle}
     font-weight: bold;
     text-shadow: -1px 0px 0px #000, 1px 0px 0px #000, 0px 1px 0px #000, 0px -1px 0px #000;
     border: 1px dotted transparent;
-
 }
-
 #icons a:hover {
 	background-position: 40px 6px;
 }	
@@ -230,9 +228,7 @@ input,select{vertical-align:middle}
     font-weight: bold;
     text-shadow: -1px 0px 0px #000, 1px 0px 0px #000, 0px 1px 0px #000, 0px -1px 0px #000;
     border: 1px dotted transparent;
-
 }
-
 #icons2 a:hover {
 	background-position: 40px 6px;
 }
