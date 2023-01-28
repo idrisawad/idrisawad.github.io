@@ -203,10 +203,10 @@ input,select{vertical-align:middle}
 
 }
 
-#icons a:hover {
+#icons2 a:hover {
 	background-position: 40px 6px;
-}	
-#icons2 {
+	
+	#icons {
 	position: relative;
 	z-index: 10;
 	top: 20px;
